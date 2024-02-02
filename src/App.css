@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+input{
+  font-size: 30px;
+  font-family: sans-serif;
+  padding-left:10px ;
+}
+.flex{
+  display: flex;
+  margin: 10px;
+}
+.name,
+.btn{
+  margin-left:400px ;
+}
+h1{
+  text-align: center;
+}
